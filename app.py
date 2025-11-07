@@ -4,7 +4,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 st.set_page_config(page_title="University Analytics Dashboard", layout="wide")
-st.title("🎓 University Student Analytics Dashboard")
+st.title(" University Student Analytics Dashboard")
 
 # --- Cargar datos ---
 df = pd.read_csv("university_student_data.csv")
@@ -47,5 +47,6 @@ st.pyplot(fig3)
 
 st.markdown("---")
 st.markdown("**Dashboard desarrollado por JUAN DUQUE, EDGARDO OLIVARES, JORGE PEREZ, JUAN OCHOA – Universidad de la Costa (2025)**")
+
 
 
