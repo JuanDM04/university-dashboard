@@ -46,4 +46,5 @@ ax3.set_ylabel("Average Values")
 st.pyplot(fig3)
 
 st.markdown("---")
-st.markdown("**Dashboard desarrollado por [tu nombre] – Universidad de la Costa (2025)**")
+st.markdown("**Dashboard desarrollado por JUAN DUQUE, EDGARDO OLIVARES, JORGUE PEREZ – Universidad de la Costa (2025)**")
+
